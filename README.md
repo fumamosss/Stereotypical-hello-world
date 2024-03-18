@@ -1,1 +1,1 @@
-<a href="https://fumamosss.github.io/Stereotypical-hello-world/">
+<a href="https://fumamosss.github.io/Stereotypical-hello-world/"/>
