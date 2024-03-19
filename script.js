@@ -1,6 +1,6 @@
 const btn = document.getElementById('btn');
 
-var str = 'Hello, world!';
+var str = 'Hello, world, I am Gay!';
 var text = '';
 var temp = '';
 var isReady = true;
@@ -30,7 +30,7 @@ function loop() {
         else
             btn.style.visibility = 'visible';
 
-    },10);
+    },);
 }
 
 btn.addEventListener('click', () => {
