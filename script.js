@@ -1,6 +1,6 @@
 const btn = document.getElementById('btn');
 
-var str = 'Hello, world, I am Gay!';
+var str = 'Hello, world, I am the creator of jerk off instructions';
 var text = '';
 var temp = '';
 var isReady = true;
